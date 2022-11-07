@@ -7,4 +7,5 @@
 # *.C linguist-detectable=false
 # *.Gradle linguist-detectable=false
 # *.CMake linguist-detectable=false
-*.rb linguist-language=Dart
+# *.rb linguist-language=Dart
+*.* linguist-language=Dart
